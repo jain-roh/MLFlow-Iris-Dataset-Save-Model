@@ -1,11 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
 
 
 from sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plot
 import os
 import numpy
 import pandas as pd
