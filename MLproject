@@ -1,0 +1,12 @@
+name: tutorial
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      SepalLengthCm: {type: float, default: 4.6}
+      SepalWidthCm: {type: float, default: 3.6}
+      PetalLengthCm: {type: float, default: 1.0}
+      PetalWidthCm: {type: float, default: 0.2}
+    command: "python LoadModelAndPredict.py {SepalLengthCm} {SepalWidthCm} {PetalLengthCm} {PetalWidthCm}"

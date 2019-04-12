@@ -1,0 +1,14 @@
+artifact_uri: /Users/rohitjain/Desktop/PythonProjects/IRIS/MLFlowSaveModel/mlruns/0/a75d5ca684ec4493b4fa6fb7a6a2f9c3/artifacts
+end_time: 1555054350421
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: a75d5ca684ec4493b4fa6fb7a6a2f9c3
+source_name: LoadModelAndPredict.py
+source_type: 4
+source_version: ''
+start_time: 1555054349596
+status: 3
+tags: []
+user_id: rohitjain
